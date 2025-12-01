@@ -25,3 +25,9 @@ div {
 img {
   width: 50%;
 }
+
+#banner{
+  background-color:blue;
+  color:white;
+  padding:20px;
+}
